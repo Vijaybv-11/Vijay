@@ -1,6 +1,6 @@
 # 👋 Yo, I'm Vijay!
 
-<img src="https://tenor.com/view/developer-gif-2461104302247665708" width="250" alt="Cool GIF" align="right">
+<img src="./developer.gif" width="250" alt="Cool GIF" align="right">
 
 QA nerd turned automation junkie 💻 — I started out breaking stuff (on purpose 👀) as an SDET, and now I'm building things that break the norm 🚀. Currently diving deep into AI automation, LLMs, and how to get bots to do my chores (kidding… kinda).
 
