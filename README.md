@@ -16,7 +16,7 @@ QA nerd turned automation junkie 💻 — I started out breaking stuff (on purpo
 
 | Area             | Tools & Frameworks |
 |------------------|--------------------|
-| Languages        | Python, JavaScript, TypeScript |
+| Languages        | Python, [Java](https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg), TypeScript |
 | Testing          | Selenium, Playwright, PyTest, Robot Framework |
 | AI / LLM         | LangChain, OpenAI, browser-use, GPT APIs |
 | Web Stuff        | React, Node.js, REST APIs |
