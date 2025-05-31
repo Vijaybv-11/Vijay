@@ -14,14 +14,15 @@ QA nerd turned automation junkie 💻 — I started out breaking stuff (on purpo
 
 ## 🛠️ Tech I'm Jamming With
 
-| Area            | Tools & Logos                                                                                 |
-|-----------------|----------------------------------------------------------------------------------------------|
-| **Languages**   | <img src="./python.svg" alt="Python" width="30" /> <img src="./java.svg" alt="Java" width="30" />  <br> Python, Java |
-| **Testing**     | <img src="./selenium.svg" alt="Selenium" width="30" /> <img src="./playwright.svg" alt="Playwright" width="30" /> <img src="./pytest.svg" alt="PyTest" width="30" /> <img src="./robotframework.svg" alt="Robot Framework" width="30" /> <br> Selenium, Playwright, PyTest, Robot Framework |
-| **AI / LLM**    | <img src="./langchain.svg" alt="LangChain" width="30" /> <img src="./openai.svg" alt="OpenAI" width="30" /> <img src="./browser-use.svg" alt="browser-use" width="30" /> <img src="./gpt.svg" alt="GPT APIs" width="30" /> <br> LangChain, OpenAI, browser-use, GPT APIs |
-| **Web Stuff**   | <img src="./react.svg" alt="React" width="30" /> <img src="./nodejs.svg" alt="Node.js" width="30" /> <img src="./restapi.svg" alt="REST APIs" width="30" /> <br> React, Node.js, REST APIs |
-| **DevOps & Infra** | <img src="./docker.svg" alt="Docker" width="30" /> <img src="./github-actions.svg" alt="GitHub Actions" width="30" /> <img src="./aws.svg" alt="AWS" width="30" /> <br> Docker, GitHub Actions, AWS (a bit 😅) |
+| Area             | Tools & Frameworks |
+|------------------|--------------------|
+| Languages        | Python, Java] TypeScript |
+| Testing          | Selenium, Playwright, PyTest, Robot Framework |
+| AI / LLM         | LangChain, OpenAI, browser-use, GPT APIs |
+| Web Stuff        | React, Node.js, REST APIs |
+| DevOps & Infra   | Docker, GitHub Actions, AWS (a bit 😅) |
 
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
 
 ## 🚧 Stuff I'm Building / Hacking On
 
@@ -31,8 +32,9 @@ QA nerd turned automation junkie 💻 — I started out breaking stuff (on purpo
 
 ## 📍 Find Me Here
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/vijaybv-11/)
-- 🐦 [Twitter](https://twitter.com/vijaybv_11)
-- ✉️ [Email](mailto:vijaybv@example.com)
+<p align="left">
+<a href="https://linkedin.com/in/www.linkedin.com/in/vijaybv11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/vijaybv11" height="30" width="40" /></a>
+</p>
+- ✉️ [Email](mailto:bvvijay1@gmail.com)
 
 > Life’s short. Automate it. 🚀
