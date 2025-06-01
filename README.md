@@ -33,7 +33,7 @@ QA nerd turned automation junkie 💻 — I started out breaking stuff (on purpo
 ## 📍 Find Me Here
 
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/vijaybv11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[www.linkedin.com/in/vijaybv11](https://www.linkedin.com/in/vijaybv11/)" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/vijaybv11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vijaybv11/" height="30" width="40" /></a>
 </p>
 <p>
   📧 <a href="mailto:bvvijay1@gmail.com">Email me</a>
